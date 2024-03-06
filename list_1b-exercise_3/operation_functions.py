@@ -1,0 +1,29 @@
+import numpy as np
+
+def add_matrix(m1_rows, m2_rows):
+    try:
+        matrix_result = np.add(m1_rows, m2_rows)
+        return matrix_result
+    except ValueError:
+        print("You've provided wrong matrix.")
+
+def subtract_matrix(m1_rows, m2_rows):
+    try:
+        matrix_result = np.subtract(m1_rows, m2_rows)
+        return matrix_result
+    except ValueError:
+        print("You've provided wrong matrix.")
+
+def multiply_matrix(m1_rows, m2_rows):
+    try:
+        matrix_result = np.multiply(m1_rows, m2_rows)
+        return matrix_result
+    except ValueError:
+        print("You've provided wrong matrix.")
+
+def transpose_matrix(m1_rows):
+    try:
+        matrix_result = np.transpose(m1_rows)
+        return matrix_result
+    except ValueError:
+        print("You've provided wrong matrix.")
