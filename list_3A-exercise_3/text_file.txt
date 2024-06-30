@@ -1,0 +1,50 @@
+warning: could not create process interface for 7295
+  PID       Vss      Rss      Pss      Uss  cmdline
+ 3859  103205536K  218624K  186285K  173324K  /applications/wpebrowser/usr/bin/WPEWebProcess
+ 1045  1385292K  159872K  137832K  131988K  /NDS/cmaf/launcher
+  846  1251596K  104388K  101090K  100832K  /NDS/bin/node
+  522  2715448K   83868K   77936K   76724K  /NDS/bin/mor_epg_XYZ
+ 3863  102611404K   54884K   29098K   21144K  /applications/wpebrowser/usr/bin/WPENetworkProcess
+ 4026  101456464K   47440K   19856K    9584K  /applications/wpebrowser/usr/bin/WPEWebProcess
+ 3811  84762080K   41144K   16432K    9532K  WPEProcess
+  941  1055100K   31692K   12743K    8268K  /applications/wpebrowser/usr/bin/WPEFramework
+ 3841   609036K   20216K    9992K    8012K  WPEProcess
+  513  1556560K   13420K    9599K    9024K  /NDS/bin/mor_VR_XYZ
+ 1003   268880K   23964K    6440K    3296K  /NDS/cmaf/launcher
+  918   274244K   20996K    6250K    3800K  /NDS/cmaf/launcher
+  970   416216K   23444K    6113K    3044K  /NDS/cmaf/launcher
+    1    13828K    8808K    5650K    4816K  /sbin/init
+  982  1021816K   22984K    5615K    2540K  /NDS/cmaf/launcher
+  512   695360K   11400K    4789K    3976K  /applications/nab/bin/NAB
+  858   116908K   17880K    3919K    2004K  /NDS/cmaf/cmaf_app
+  904    42848K   18000K    3785K    1748K  /NDS/cmaf/launcher
+  113    33148K    6912K    3763K    2916K  /lib/systemd/systemd-journald
+ 1058   744200K    9132K    3757K    2656K  /applications/systemui/SystemUIApp
+  111     7600K    4348K    3277K    3240K  /usr/sbin/haveged
+ 3824   514900K   11084K    2784K    1280K  WPEProcess
+ 7296     4176K    3584K    2565K    2528K  procrank
+ 3803   506104K   10424K    2557K    1332K  WPEProcess
+  847    93396K    9008K    2239K    1584K  /NDS/bin/mor_NSCLIENT_XYZ
+  199   880444K    3484K    2193K    2144K  /lib/modules/cdi/moksha_loader
+  118    10060K    5328K    2130K    1344K  /lib/systemd/systemd-udevd
+  343     7304K    3128K    1859K    1740K  /usr/sbin/wpa_supplicant
+  845    86344K    7392K    1277K     624K  /NDS/cmaf/cmaf_priv_svc
+  430     3044K    2332K     990K     940K  /sbin/dhcpcd
+  511     2964K    1992K     920K     864K  /NDS/bin/dbus-daemon
+  158     3464K    2872K     909K     456K  -sh
+ 7284     3492K    2760K     904K     460K  -sh
+  155     4836K    2272K     716K     500K  /usr/sbin/rngd
+  345     3360K    2404K     648K     300K  /bin/sh
+  142     3124K    1968K     474K     260K  telnetd
+  162     2296K    1424K     389K     352K  /usr/sbin/dropbear
+  376     1608K    1096K     117K      84K  brcm_patchram_plus
+  344     1600K     840K     100K      76K  /bin/xwifi_wlscan
+                           ------   ------  ------
+                          678008K  599336K  TOTAL
+
+RAM: 1276776K total, 89788K free, 148036K buffers, 258676K cached, 46804K shmem, 50388K slab
+#
+
+
+
+
